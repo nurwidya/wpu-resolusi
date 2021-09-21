@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
-- video js
+- video js : 
+  ES6
+  Framework JS
 - video php framework
 - interview
 - vlog
